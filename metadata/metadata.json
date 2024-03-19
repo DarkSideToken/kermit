@@ -1,17 +1,6 @@
 {
     "name": "Kermit Dark Side",
     "symbol": "KDST",
-    "description": "KDST is a meme token on the Solana blockchain, combining investment potential with the viral appeal of meme culture in the cryptocurrency community.",
-    "image": "https://raw.githubusercontent.com/DarkSideToken/kermit/main/metadata/logo.png",
-    "tags": [
-        "community-token",
-        "spl-token",
-        "social-token",
-        "meme-token"
-      ],
-      "extensions": {
-        "telegram": "https://t.me/kermitdarksidetoken",
-        "twitter": "https://twitter.com/DarkSideToken",
-        "website": "https://kermitdarkside.fun"
-      }
+    "description": "KDST is a meme token on the Solana blockchain, combining investment potential with the viral appeal of meme culture in the cryptocurrency community. telegram: https://t.me/kermitdarksidetoken , twitter: https://twitter.com/DarkSideToken, website: https://kermitdarkside.fun",
+    "image": "https://raw.githubusercontent.com/DarkSideToken/kermit/main/metadata/logo.png"
 }
